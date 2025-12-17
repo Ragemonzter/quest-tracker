@@ -1,9 +1,10 @@
 {
-  "name": "Solo Quest System",
-  "short_name": "SoloQuest",
-  "start_url": "index.html",
+  "name": "Solo Leveling Quest App",
+  "short_name": "Quests",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
-  "background_color": "#0f172a",
+  "background_color": "#111827",
   "theme_color": "#111827",
   "icons": [
     {
