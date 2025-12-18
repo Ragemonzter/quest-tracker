@@ -1,8 +1,8 @@
 {
   "name": "Solo Leveling Quest App",
   "short_name": "Quests",
-  "start_url": ".",
-  "scope": ".",
+  "start_url": "/quest-tracker/",
+  "scope": "/quest-tracker/",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#111827",
